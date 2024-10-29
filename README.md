@@ -16,8 +16,7 @@ I am a highly skilled full-stack developer and DevOps engineer with extensive ex
 ![Frontend Skills](https://via.placeholder.com/500x150)
 
   
-
-- **Frameworks & Libraries**:
+#### **Frameworks & Libraries**:
 
 - React, Vue, Next.js, Umi, Relay.js, GraphQL, Apollo GraphQL
 
@@ -31,7 +30,7 @@ I am a highly skilled full-stack developer and DevOps engineer with extensive ex
 
 - WebAssembly Integration
 
-- **Technologies**:
+#### **Technologies**:
 
 - Advanced CSS (including animations, theme switches)
 
@@ -41,7 +40,7 @@ I am a highly skilled full-stack developer and DevOps engineer with extensive ex
 
 - API Integration & Real-Time Features (Socket.io)
 
-- **Frontend Achievements**:
+#### **Frontend Achievements**:
 
 - Developed internal frontend infrastructure, including a local hot-reload UI library
 
@@ -61,7 +60,7 @@ I am a highly skilled full-stack developer and DevOps engineer with extensive ex
 
   
 
-- **CI/CD Pipelines**:
+#### **CI/CD Pipelines**:
 
 - GitHub Actions, Circle CI, Vercel, Docker, Docker Compose
 
@@ -75,7 +74,7 @@ I am a highly skilled full-stack developer and DevOps engineer with extensive ex
 
 - NGINX, AWS (basic operations), Ubuntu, Kubernetes (EKS)
 
-- **DevOps Achievements**:
+## **DevOps Achievements**:
 
 - Migrated all Circle CI workflows to GitHub Actions
 
@@ -91,7 +90,7 @@ I am a highly skilled full-stack developer and DevOps engineer with extensive ex
 
   
 
-- **Languages & Tools**:
+#### **Languages & Tools**:
 
 - Python, Node.js, Golang
 
@@ -99,7 +98,7 @@ I am a highly skilled full-stack developer and DevOps engineer with extensive ex
 
 - Federation Gateway
 
-- **Backend Achievements**:
+#### **Backend Achievements**:
 
 - Delivered complete features independently within tight sprint timelines
 
