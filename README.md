@@ -1,127 +1,54 @@
-![Anurag's GitHub stats](https://github.com/zmrlft/GreenWall)
-
-
-
-# About Me
-I am a highly skilled full-stack developer and DevOps engineer with extensive experience in modern web technologies, backend development, CI/CD automation, and AI integration. I have expertise in both frontend and backend systems, building efficient microservice architectures, and automating deployments across cloud platforms. Here is a summary of my skills:
-
-  
+## Hi, I'm Antique 👋  
+Full-Stack Engineer • Systems Design • DevOps • Infra • Reverse Engineering • Automation
 
 ---
 
-  
-
-### 🖥️ **Frontend Expertise**
-
-![Frontend Skills](https://via.placeholder.com/500x150)
-
-  
-#### **Frameworks & Libraries**:
-
-- React, Vue, Next.js, Umi, Relay.js, GraphQL, Apollo GraphQL
-
-- PWA (Progressive Web Apps)
-
-- Micro Frontend Architecture
-
-- Custom Component Libraries (Headless UI)
-
-- Electron, React Native
-
-- WebAssembly Integration
-
-#### **Technologies**:
-
-- Advanced CSS (including animations, theme switches)
-
-- Webpack Optimization
-
-- E2E Testing (Playwright, Jest, Converge Testing)
-
-- API Integration & Real-Time Features (Socket.io)
-
-#### **Frontend Achievements**:
-
-- Developed internal frontend infrastructure, including a local hot-reload UI library
-
-- Led PWA development and micro frontend implementation
-
-- Built a custom VSCode plugin for enhanced developer experience
-
-- Focused on performance metrics: FP, FMP, LCP, and CLS for optimal user experience
-
-- Created i18n and theme automation solutions
-
-  
-
-### ⚙️ **DevOps & CI/CD**
-
-![DevOps & CI/CD](https://via.placeholder.com/500x150)
-
-  
-
-#### **CI/CD Pipelines**:
-
-- GitHub Actions, Circle CI, Vercel, Docker, Docker Compose
-
-- Automated deployment strategies (feature branch deployment, manual deploy, canary releases)
-
-- Transitioned full CI/CD architecture from single container to Kubernetes (K8s) clusters
-
-- CI/CD architecture: automated rollback, specified version rollbacks, PR-based canary releases
-
-- **Infrastructure Tools**:
-
-- NGINX, AWS (basic operations), Ubuntu, Kubernetes (EKS)
-
-## **DevOps Achievements**:
-
-- Migrated all Circle CI workflows to GitHub Actions
-
-- Independently developed CI/CD from scratch, with 10-minute parallel E2E testing for complete regression
-
-- Maintained Dockerfiles, shell scripts, NGINX configurations for local, test, and prod environments
-
-  
-
-### 🛠️ **Backend Development**
-
-![Backend Development](https://via.placeholder.com/500x150)
-
-  
-
-#### **Languages & Tools**:
-
-- Python, Node.js, Golang
-
-- RabbitMQ, Celery, Redis, PostgreSQL, GraphDB
-
-- Federation Gateway
-
-#### **Backend Achievements**:
-
-- Delivered complete features independently within tight sprint timelines
-
-- Built federation gateways, handling multi-service data distribution through automated GraphQL AST transformation
-
-  
-
-### 🕸️ **Web Scraping & AI**
-
-![Web Scraping & AI](https://via.placeholder.com/500x150)
-
-  
-
-- **Web Scraping**: Parallel scraping, reverse engineering for data extraction
-
-- **AI Tools**: Langgraph, OpenAI integration for intelligent automation
-
-- **Database & Automation**:
-
-- Full-stack AI development with independent database automation, deployment, and testing
-
-- Developed complete AI frontend/backend solutions with end-to-end automation
-
-  
+## About Me  
+I work across the full stack, from backend systems and infrastructure to frontend user experiences.  
+My focus is on building **robust, scalable, and maintainable systems** with clean architecture and strong automation.  
+I enjoy breaking down complex problems, designing predictable systems, and creating tools that make engineering faster and more reliable.
 
 ---
+
+## What I Do
+
+- **System Design & Backend Engineering**  
+  Architecting reliable services, optimizing performance, and delivering end-to-end solutions.
+
+- **Infrastructure & Automation**  
+  CI/CD pipelines, environment orchestration, deployment automation, and operational tooling.
+
+- **Full-Stack Product Development**  
+  Building frontend interfaces and backend APIs with a strong emphasis on developer experience, consistency, and long-term sustainability.
+
+- **Frontend Architecture & UX Systems**  
+  Designing scalable frontend architecture, building component systems, establishing design consistency across products, and shaping user flows grounded in engineering discipline.
+
+- **Reverse Engineering & Private Integrations**  
+  Understanding underlying protocols, behaviors, and constraints to build stable automation or integration layers.
+
+- **AI-Driven Workflows & Automation**  
+  Creating intelligent pipelines and agent-like systems that automate complex operational tasks.
+
+---
+
+## My Engineering Principles
+
+- **Simplicity scales better than cleverness**  
+- **Automation is leverage**  
+- **Systems should be observable, predictable, and repairable**  
+- **Good architecture reduces long-term cost**  
+- **Fast iteration is a competitive advantage**  
+
+---
+
+## Tech Toolbox
+
+**Languages:** Rust, TypeScript, Python, Go  
+**Areas:** Backend systems, distributed services, infra automation, full-stack development  
+**Ecosystem:** Containers, orchestration, CI/CD, cloud infrastructure, data processing  
+**Other:** Frontend architecture, UI/UX systems, reverse engineering, private APIs, large-scale scraping, AI workflow automation  
+
+---
+
+I'm currently solving challenging engineering problems, one system at a time.
