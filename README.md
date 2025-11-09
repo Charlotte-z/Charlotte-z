@@ -1,12 +1,13 @@
 ## Hi, I'm Antique 👋  
-Full-Stack Engineer • Systems Design • DevOps • Infra • Reverse Engineering • Automation
+Full-Stack Engineer • Systems Design • DevOps • Infra • Frontend Architecture • Reverse Engineering
 
 ---
 
 ## About Me  
-I work across the full stack, from backend systems and infrastructure to frontend user experiences.  
+I work across the entire stack, from backend systems and infrastructure to frontend architecture and user-facing product experiences.  
 My focus is on building **robust, scalable, and maintainable systems** with clean architecture and strong automation.  
-I enjoy breaking down complex problems, designing predictable systems, and creating tools that make engineering faster and more reliable.
+
+I care deeply about **clarity in design**, **predictable systems**, and engineering workflows that let teams move fast without breaking things.
 
 ---
 
@@ -16,38 +17,38 @@ I enjoy breaking down complex problems, designing predictable systems, and creat
   Architecting reliable services, optimizing performance, and delivering end-to-end solutions.
 
 - **Infrastructure & Automation**  
-  CI/CD pipelines, environment orchestration, deployment automation, and operational tooling.
+  CI/CD pipelines, orchestration, environment automation, deployment systems, and operational tooling.
 
-- **Full-Stack Product Development**  
-  Building frontend interfaces and backend APIs with a strong emphasis on developer experience, consistency, and long-term sustainability.
+- **Frontend Architecture & Product Engineering**  
+  Designing scalable frontend architecture, simplifying complexity, building component systems, and shaping consistent product experiences with strong engineering foundations.
 
-- **Frontend Architecture & UX Systems**  
-  Designing scalable frontend architecture, building component systems, establishing design consistency across products, and shaping user flows grounded in engineering discipline.
+- **UI/UX-Driven Engineering**  
+  Applying interaction thinking and design principles to build intuitive, fast, and maintainable interfaces without compromising engineering quality.
 
 - **Reverse Engineering & Private Integrations**  
-  Understanding underlying protocols, behaviors, and constraints to build stable automation or integration layers.
+  Understanding underlying protocols and behaviors to build stable automation and integration layers.
 
 - **AI-Driven Workflows & Automation**  
-  Creating intelligent pipelines and agent-like systems that automate complex operational tasks.
+  Creating intelligent pipelines, agent-style automation, and end-to-end systems powered by AI.
 
 ---
 
 ## My Engineering Principles
 
-- **Simplicity scales better than cleverness**  
-- **Automation is leverage**  
-- **Systems should be observable, predictable, and repairable**  
-- **Good architecture reduces long-term cost**  
-- **Fast iteration is a competitive advantage**  
+- **Great systems feel simple, even when they aren’t**  
+- **Architecture should reduce cognitive load**  
+- **Automation multiplies impact**  
+- **Consistency beats cleverness**  
+- **Fast iteration is a superpower**  
 
 ---
 
 ## Tech Toolbox
 
 **Languages:** Rust, TypeScript, Python, Go  
-**Areas:** Backend systems, distributed services, infra automation, full-stack development  
-**Ecosystem:** Containers, orchestration, CI/CD, cloud infrastructure, data processing  
-**Other:** Frontend architecture, UI/UX systems, reverse engineering, private APIs, large-scale scraping, AI workflow automation  
+**Areas:** Frontend architecture, backend systems, distributed services, infra automation, full-stack product development  
+**Ecosystem:** Containers, CI/CD, orchestration, cloud infrastructure, data processing  
+**Other:** UI/UX systems, design consistency, reverse engineering, private APIs, large-scale scraping, AI workflow automation  
 
 ---
 
